@@ -1,0 +1,36 @@
+.album
+{
+    background-color: #151515 !important;
+}
+
+.card
+{
+    background-color: #101010;
+    color: white;
+}
+
+body
+{
+    background-color: #101010;
+}
+
+.white-text
+{
+    color: white;
+}
+
+.gray-text
+{
+    color: #a1a1a1 !important;
+}
+
+.my-button
+{
+    background-color: orange !important;
+    color: #101010 !important;
+}
+
+.my-link
+{
+    color: orange !important;
+}
