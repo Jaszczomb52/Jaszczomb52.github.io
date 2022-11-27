@@ -12,6 +12,10 @@
 body
 {
     background-color: #101010;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .white-text
@@ -33,4 +37,44 @@ body
 .my-link
 {
     color: yellow !important;
+}
+
+.featurette-divider
+{
+    color: white !important;
+}
+
+#carouselExampleInterval
+{
+    height: 15rem;
+}
+
+a
+{
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: orange;
+}
+
+.listOfLinks
+{
+    margin-top: -0.8rem;
+    margin-bottom: -0.8rem;
+}
+
+.listOfLinks > li
+{
+    margin-top: -1rem !important;
+    margin-bottom: 0rem !important;
+    font-size: 1.25rem !important;
+    font-weight: 300 !important;
+}
+
+.featurette
+{
+    text-align: justify;
 }
