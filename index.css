@@ -87,13 +87,12 @@ a:hover
 .listOfLinks
 {
     margin-top: -0.8rem;
-    margin-bottom: -0.8rem;
+    margin-bottom: 0.6rem;
 }
 
 .listOfLinks > li
 {
-    margin-top: -1rem !important;
-    margin-bottom: 0rem !important;
+
     font-size: 1.25rem !important;
     font-weight: 300 !important;
 }
