@@ -65,6 +65,15 @@ body
     height: 300px;
 }
 
+.hobbiesList
+{
+    list-style-type: square;
+}
+
+.hobbiesInnerList
+{
+    list-style-type: circle;
+}
 
 
 
